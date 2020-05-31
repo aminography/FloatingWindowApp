@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff4444"
+        android:padding="32dp"
+        android:text="text"
+        android:textColor="#ffffff"
+        android:textSize="24sp" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/closeImageButton"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="top|right"
+        android:src="@drawable/ic_close_white_24dp" />
+
+</FrameLayout>
