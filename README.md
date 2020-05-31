@@ -1,6 +1,6 @@
 # FloatingWindowApp
 
-Related to [this StackOverflow Question](https://stackoverflow.com/questions/52980478/how-to-create-a-floating-window-like-clipboard-pro-app)
+This repository contains source codes of a test app related to the StackOverflow Question: [How to create a floating window like Clipboard Pro App?](https://stackoverflow.com/questions/52980478/how-to-create-a-floating-window-like-clipboard-pro-app)
 
 ![Visual Result][1]
 
